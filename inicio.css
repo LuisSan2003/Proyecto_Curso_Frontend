@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    background-color: #223265;
+}
+.header {
+    background-color:  rgba(0, 0, 0, 0.2);
+}
+.header_img {
+    padding: 5px;
+}
